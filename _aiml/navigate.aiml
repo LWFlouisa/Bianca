@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Showcase language stats in statistics feed.</pattern>
+    <template>
+      Writing new statistics RSS.
+      <system>cd _language/Statistics; ruby get_frequency.rb</system>
+    </template>
+  </category>
+<aiml>
