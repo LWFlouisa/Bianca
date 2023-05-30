@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet type='text/css' href='Stylesheet/rss.css' ?>
+<rss version='2.0'>
+
+<channel>
+  <title>Personal Blog</title>
+  <link>http://localhost:8000/feed.xml</link>
+  <description>Local Feed for ASPI output.</description>
+
+  
+  <item>
+    <title>Fri May 26 02:03:03 PM CDT 2023</title>
+    <link>http://localhost:8000/documents/Fri_May_26_02:03:03_PM_CDT_2023.txt</link>
+    <description><![CDATA[<h2>Fri<em>May</em>26<em>02:03:03</em>PM<em>CDT</em>2023</h2>
+
+<p>[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].
+[langstat, dipthong 0.002192886276917679].</p>]]></description>
+  </item>
+      
+  
+  <item>
+    <title>Fri May 26 02:01:50 PM CDT 2023</title>
+    <link>http://localhost:8000/documents/Fri_May_26_02:01:50_PM_CDT_2023.txt</link>
+    <description><![CDATA[<h2>Fri<em>May</em>26<em>02:01:50</em>PM<em>CDT</em>2023</h2>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>
+
+<p>langstat, dipthong 0.002192886276917679</p>]]></description>
+  </item>
+      
+
+</channel>
+
+</rss>
